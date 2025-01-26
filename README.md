@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="LofiAnimation.gif" height="300" width="100%" alt="gif banner" />
+  <img src="LofiAnimation.gif" height="400" width="100%" alt="gif banner" />
 </div>
 
 ###
