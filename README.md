@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img src="LofiAnimation.gif" height="300" width="100%" alt="gif banner" />
+</div>
+
+###
+
 <p align="left">I’m all about teaching machines to think (AI and ML) while trying to convince my own brain to do the same. When I’m not debugging code, I’m debugging life—either lost in music or wandering aimlessly with friends like a GPS with no signal.</p>
 
 ###
@@ -57,10 +63,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/aditya_13115/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -71,12 +73,3 @@
   <a href="https://www.linkedin.com/in/adityadas13115/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aditya-13115/aditya-13115/output/snake.svg" alt="Snake animation" />
-
-###
