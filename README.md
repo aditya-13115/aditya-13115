@@ -1,136 +1,204 @@
-<h1 align="center">Hi 👋, I'm Aditya!</h1>
-<h3 align="center">I'm all about teaching machines to think while trying to convince my own brain to do the same. When I'm not debugging code, I'm debugging life—either lost in music or wandering aimlessly with friends.</h3>
+<h1 align="center">Aditya (◕ᴥ◕ʋ)</h1>
 
-<!-- Animated typing effect -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Science+Aficionado;AI+Explorer;Problem+Solver" alt="Typing SVG" /></a>
+  <strong>Machine Learning · NLP · AI Systems</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aditya-13115">GitHub</a> ·
+  <a href="https://linkedin.com/in/adityadas13115">LinkedIn</a> ·
+  <a href="https://twitter.com/aditya96300662">X</a> ·
+  <a href="https://www.leetcode.com/user4870wq">LeetCode</a>
 </p>
 
 <div align="center">
-  <img src="LofiAnimation.gif" height="400" width="100%" alt="gif banner" />
+  <img src="LofiAnimation.gif" width="100%" alt="Aditya's workspace" />
 </div>
 
-<!-- Cool profile views counter with custom styling -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aditya-13115&label=Profile%20views&color=00ff00&style=for-the-badge&logo=github" alt="aditya-13115" /> 
-  <a href="https://github.com/aditya-13115?tab=followers">
-    <img src="https://img.shields.io/github/followers/aditya-13115?label=Followers&style=for-the-badge&color=00ff00" alt="followers" />
-  </a>
+<p align="center">
+  <sub>building intelligent systems, experimenting with models, and occasionally questioning why the model works</sub>
 </p>
 
-<!-- GitHub Trophies with dark theme -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-13115&theme=matrix&column=7&margin-w=15&margin-h=15" alt="aditya-13115" /></a> </p>
+about
 
-<!-- About me section with emoji -->
-<h3 align="left">🧠 About Me:</h3>
-<ul>
-  <li>🔭 I'm currently working on <b>AI & Machine Learning Projects</b></li>
-  <li>🌱 I'm constantly learning <b>Advanced ML Techniques & Deep Learning</b></li>
-  <li>💬 Ask me about <b>Python, ML, Data Science</b></li>
-  <li>⚡ Fun fact: <b>I debug better with music!</b></li>
-</ul>
+I'm interested in what happens between an idea and a working intelligent system.
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aditya96300662" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/00ff00" alt="aditya96300662" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityadas13115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityadas13115" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_13115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_13115" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user4870wq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4870wq" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityad4vcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityad4vcd" height="30" width="40" /></a>
+My work mainly revolves around machine learning, natural language processing,
+language models, retrieval systems, agentic workflows, and evaluation.
+
+currently
+papersift
+────────────
+ml research agent
+
+exploring
+llms · rag · agents · retrieval · evaluation
+
+the stack
+
+<p align="center">
+  <strong>languages</strong><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
 </p>
 
-<!-- Languages and Tools with categorization -->
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<details open>
-<summary><b>Programming Languages</b></summary>
-<br>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-</p>
-</details>
-
-<details open>
-<summary><b>AI/ML</b></summary>
-<br>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a> 
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>Data Science</b></summary>
-<br>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> 
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Databases</b></summary>
-<br>
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="filter: invert(48%) sepia(88%) saturate(750%) hue-rotate(100deg) brightness(90%) contrast(100%)"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-</details>
-
-<details open>
-<summary><b>Tools & Others</b></summary>
-<br>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-</details>
-
-<!-- Skill bars with green theme -->
-<h3 align="left">📊 My Skills:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-★★★★★-00ff00?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-★★★★☆-00ff00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-★★★★☆-00ff00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Backend_Development-★★★☆☆-00ff00?style=for-the-badge&logo=flask&logoColor=white" alt="Backend Development" />
-  <img src="https://img.shields.io/badge/Problem_Solving-★★★★★-00ff00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving" />
+<p align="center">
+  <strong>machine learning</strong><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42"/>
 </p>
 
-<!-- GitHub Stats with enhanced styling -->
-<h3 align="left">📈 GitHub Stats:</h3>
+<p align="center">
+  <strong>data</strong><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+</p>
+
+<p align="center">
+  <strong>engineering</strong><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+</p>
+
+selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+ResolveIQ
+
+Selective, evidence-grounded support agent combining intent classification,
+retrieval, grounded generation, and escalation.
+
+<a href="https://github.com/aditya-13115/resolveIQ">repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+RingWatch
+
+Explainable risk-intelligence system for detecting coordinated refund and
+return abuse through connected evidence and risk analysis.
+
+<a href="https://github.com/aditya-13115/ringWatch">repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+PaperSift
+
+Autonomous ML research agent for paper analysis, retrieval, reasoning,
+tool use, and reproducible research workflows.
+
+<a href="https://github.com/aditya-13115/papersift">repository →</a>
+<br><br>
+<sub>currently working</sub>
+
+</td>
+<td width="50%" valign="top">
+
+MultiAgent-RetrievalQA
+
+Multi-agent RAG system combining hybrid retrieval, reranking,
+orchestration, and evaluation.
+
+<a href="https://github.com/aditya-13115/MultiAgent-RetrievalQA">repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+LLM Scratch
+
+A large language model architecture implemented from the ground up.
+
+<a href="https://github.com/aditya-13115/llmScratch">repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+SLM TinyStory
+
+A 50M parameter small language model trained from scratch in PyTorch
+on TinyStories.
+
+<a href="https://github.com/aditya-13115/slm-TinyStory">repository →</a>
+
+</td>
+</tr>
+</table>
+
+more experiments
+
+<p align="center">
+  <a href="https://github.com/aditya-13115/HRrehabAPP">HRrehabAPP</a> ·
+  <a href="https://github.com/aditya-13115/DBMS_agentic">DBMS_agentic</a> ·
+  <a href="https://github.com/aditya-13115/taxiRL">taxiRL</a> ·
+  <a href="https://github.com/aditya-13115/deepseek_Scratch">mini-deepseek</a><br>
+  <a href="https://github.com/aditya-13115/recommenderSystem">recommenderSystem</a> ·
+  <a href="https://github.com/aditya-13115/oldLMs">oldLMs</a> ·
+  <a href="https://github.com/aditya-13115/rnn-LSTM">rnn-lstm</a>
+</p>
+
+github activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-13115&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&title_color=00ff00&text_color=00ff00" alt="aditya-13115" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&theme=chartreuse-dark&locale=en&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true" alt="Github Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=00000000&title_color=1e293b&text_color=64748b&icon_color=6366f1&ring_color=6366f1"
+    height="175"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=00000000&title_color=1e293b&text_color=64748b"
+    height="175"
+    alt="Top languages"
+  />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-13115&theme=chartreuse-dark&hide_border=true" alt="aditya-13115" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-13115&hide_border=true&background=00000000&ring=6366f1&fire=8b5cf6&currStreakLabel=1e293b&sideLabels=64748b&dates=94a3b8&sideNums=334155"
+    height="175"
+    alt="GitHub streak"
+  />
 </div>
 
 <div align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-13115&theme=github-dark&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false" alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-13115&bg_color=00000000&color=64748b&line=6366f1&point=8b5cf6&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub activity graph"
+  />
 </div>
 
-<!-- Snake animation -->
+contribution map
+
 <div align="center">
-  <img src="https://github.com/aditya-13115/aditya-13115/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/aditya-13115/aditya-13115/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub contribution snake"
+  />
 </div>
 
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Random Quote" />
-</div>
+<p align="center">
+  <sub>build → break → understand → rebuild</sub>
+</p>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya-13115&label=profile%20views&color=6366f1&style=flat-square" alt="profile views" />
+</p>
