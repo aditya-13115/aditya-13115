@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aditya (◕ᴥ◕ʋ)
+# Aditya Das
 
 <p>
   <strong>machine learning</strong>
@@ -264,14 +264,14 @@ with strict clinical safety overrides.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a&ring_color=d6b77a"
+    srcset="./profile/stats-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e&icon_color=9a7b3f&ring_color=9a7b3f"
+    srcset="./profile/stats-light.svg"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a&ring_color=d6b77a&cache_seconds=86400"
+    src="./profile/stats-dark.svg"
     height="165"
     alt="GitHub stats"
   />
@@ -280,14 +280,14 @@ with strict clinical safety overrides.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e"
+    srcset="./profile/top-langs-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e"
+    srcset="./profile/top-langs-light.svg"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&cache_seconds=86400"
+    src="./profile/top-langs-dark.svg"
     height="165"
     alt="Top languages"
   />
