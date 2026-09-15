@@ -1,6 +1,6 @@
 <div align="center">
 
-Aditya (◕ᴥ◕ʋ)
+Aditya Das
 
 <p>
   <strong>machine learning</strong>
@@ -34,11 +34,13 @@ Aditya (◕ᴥ◕ʋ)
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="64%" valign="top">
+<div align="center">
 
 about
+
+<table width="90%">
+<tr>
+<td align="left" valign="top">
 
 I'm interested in the space between an idea and a working intelligent system.
 
@@ -46,35 +48,25 @@ My work mainly revolves around machine learning, natural language processing,
 language models, retrieval systems, agentic workflows, and evaluation.
 
 </td>
-
-<td width="36%" valign="top">
-
-now
-
-papersift
-
-ml research agent
-
-<br />
-
-<sub>paper analysis · rag · tool use · reasoning · model routing</sub>
-
-</td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
 currently building
 
-<table>
+<table width="90%">
 <tr>
 <td align="center">
 
 <h3>papersift</h3>
 
-<p>an autonomous ml research agent for paper analysis, retrieval, reasoning,
-tool use, model routing, and reproducible research workflows.</p>
+<p>
+  an autonomous ml research agent for paper analysis, retrieval, reasoning,
+  tool use, model routing, and reproducible research workflows.
+</p>
 
 <p>
   <a href="https://github.com/aditya-13115/papersift">
@@ -257,25 +249,43 @@ github
 
 <br />
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a&ring_color=d6b77a"
-height="165"
-alt="GitHub stats"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a&ring_color=d6b77a"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e&icon_color=9a7b3f&ring_color=9a7b3f"
+  />
+  <img height="165" alt="GitHub stats" />
+</picture>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a"
-height="165"
-alt="Top languages"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e"
+  />
+  <img height="165" alt="Top languages" />
+</picture>
 
 <br /><br />
 
-<img
-src="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&sideLabels=A8A29E&dates=78716C&sideNums=D6D3D1"
-height="165"
-alt="GitHub streak"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&currStreakNum=E7E5E4&sideLabels=A8A29E&sideNums=D6D3D1&dates=78716C&stroke=44403C"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=FFFFFF&ring=9A7B3F&fire=A16207&currStreakLabel=292524&currStreakNum=292524&sideLabels=57534E&sideNums=44403C&dates=78716C&stroke=D6D3D1"
+  />
+  <img height="165" alt="GitHub streak" />
+</picture>
 
 </div>
 
