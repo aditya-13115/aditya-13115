@@ -1,6 +1,6 @@
 <div align="center">
 
-Aditya Das
+# Aditya (◕ᴥ◕ʋ)
 
 <p>
   <strong>machine learning</strong>
@@ -34,9 +34,11 @@ Aditya Das
 
 </div>
 
+---
+
 <div align="center">
 
-about
+## about
 
 <table width="90%">
 <tr>
@@ -53,9 +55,11 @@ language models, retrieval systems, agentic workflows, and evaluation.
 
 </div>
 
+---
+
 <div align="center">
 
-currently building
+## currently building
 
 <table width="90%">
 <tr>
@@ -82,13 +86,15 @@ currently building
 
 </div>
 
-stack
+---
+
+## stack
 
 <table width="100%">
 <tr>
 <td width="25%" align="center">
 
-languages
+**languages**
 
 <br /><br />
 
@@ -101,7 +107,7 @@ languages
 
 <td width="25%" align="center">
 
-ml / ai
+**ml / ai**
 
 <br /><br />
 
@@ -114,7 +120,7 @@ ml / ai
 
 <td width="25%" align="center">
 
-data
+**data**
 
 <br /><br />
 
@@ -127,7 +133,7 @@ data
 
 <td width="25%" align="center">
 
-engineering
+**engineering**
 
 <br /><br />
 
@@ -140,13 +146,15 @@ engineering
 </tr>
 </table>
 
-selected work
+---
+
+## selected work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-resolveiq
+### resolveiq
 
 Selective, evidence-grounded support agent combining intent classification,
 retrieval, grounded generation, and escalation.
@@ -159,7 +167,7 @@ retrieval, grounded generation, and escalation.
 
 <td width="50%" valign="top">
 
-ringwatch
+### ringwatch
 
 Explainable risk-intelligence system for connecting evidence and detecting
 coordinated refund and return abuse.
@@ -174,7 +182,7 @@ coordinated refund and return abuse.
 <tr>
 <td width="50%" valign="top">
 
-multiagent-retrievalqa
+### multiagent-retrievalqa
 
 Multi-agent RAG system combining hybrid retrieval, reranking,
 orchestration, and evaluation.
@@ -187,7 +195,7 @@ orchestration, and evaluation.
 
 <td width="50%" valign="top">
 
-llmscratch
+### llmscratch
 
 Large language model architecture implemented from scratch.
 
@@ -201,7 +209,7 @@ Large language model architecture implemented from scratch.
 <tr>
 <td width="50%" valign="top">
 
-slm-tinystory
+### slm-tinystory
 
 50M parameter small language model trained from scratch in PyTorch
 on TinyStories.
@@ -214,7 +222,7 @@ on TinyStories.
 
 <td width="50%" valign="top">
 
-hrrehabapp
+### hrrehabapp
 
 AI-powered cardiac rehabilitation prescriber using XGBoost
 with strict clinical safety overrides.
@@ -227,7 +235,9 @@ with strict clinical safety overrides.
 </tr>
 </table>
 
-more experiments
+---
+
+## more experiments
 
 <p align="center">
   <a href="https://github.com/aditya-13115/DBMS_agentic">dbms_agentic</a>
@@ -243,9 +253,11 @@ more experiments
   <a href="https://github.com/aditya-13115/rnn-LSTM">rnn-lstm</a>
 </p>
 
+---
+
 <div align="center">
 
-github
+## github
 
 <br />
 
@@ -258,7 +270,11 @@ github
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e&icon_color=9a7b3f&ring_color=9a7b3f"
   />
-  <img height="165" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aditya-13115&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6b77a&ring_color=d6b77a&cache_seconds=86400"
+    height="165"
+    alt="GitHub stats"
+  />
 </picture>
 
 <picture>
@@ -270,7 +286,11 @@ github
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=ffffff&title_color=292524&text_color=57534e"
   />
-  <img height="165" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-13115&layout=compact&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&cache_seconds=86400"
+    height="165"
+    alt="Top languages"
+  />
 </picture>
 
 <br /><br />
@@ -284,14 +304,20 @@ github
     media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=FFFFFF&ring=9A7B3F&fire=A16207&currStreakLabel=292524&currStreakNum=292524&sideLabels=57534E&sideNums=44403C&dates=78716C&stroke=D6D3D1"
   />
-  <img height="165" alt="GitHub streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&currStreakNum=E7E5E4&sideLabels=A8A29E&sideNums=D6D3D1&dates=78716C&stroke=44403C"
+    height="165"
+    alt="GitHub streak"
+  />
 </picture>
 
 </div>
 
+---
+
 <div align="center">
 
-contribution map
+## contribution map
 
 <picture>
   <source
