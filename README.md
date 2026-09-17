@@ -298,14 +298,14 @@ with strict clinical safety overrides.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&currStreakNum=E7E5E4&sideLabels=A8A29E&sideNums=D6D3D1&dates=78716C&stroke=44403C"
+    srcset="./profile/streak-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=FFFFFF&ring=9A7B3F&fire=A16207&currStreakLabel=292524&currStreakNum=292524&sideLabels=57534E&sideNums=44403C&dates=78716C&stroke=D6D3D1"
+    srcset="./profile/streak-light.svg"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=aditya-13115&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&currStreakNum=E7E5E4&sideLabels=A8A29E&sideNums=D6D3D1&dates=78716C&stroke=44403C"
+    src="./profile/streak-dark.svg"
     height="165"
     alt="GitHub streak"
   />

@@ -16,6 +16,10 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v6
 
+      # ─────────────────────────────────────────────
+      # GitHub Stats
+      # ─────────────────────────────────────────────
+
       - name: Generate dark stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -34,6 +38,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      # ─────────────────────────────────────────────
+      # Top Languages
+      # ─────────────────────────────────────────────
+
       - name: Generate dark top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -51,6 +59,28 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      # ─────────────────────────────────────────────
+      # GitHub Streak
+      # ─────────────────────────────────────────────
+
+      - name: Generate dark streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=0D1117&ring=D6B77A&fire=CBA96B&currStreakLabel=E7E5E4&currStreakNum=E7E5E4&sideLabels=A8A29E&sideNums=D6D3D1&dates=78716C&stroke=44403C&disable_animations=true
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light streak card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=FFFFFF&ring=9A7B3F&fire=A16207&currStreakLabel=292524&currStreakNum=292524&sideLabels=57534E&sideNums=44403C&dates=78716C&stroke=D6D3D1&disable_animations=true
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────
+      # Commit generated cards
+      # ─────────────────────────────────────────────
 
       - name: Commit updated cards
         run: |
